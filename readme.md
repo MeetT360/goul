@@ -1,1 +1,1 @@
-run `npm install index.js` to install
+run `npm install -g index.js` to install
